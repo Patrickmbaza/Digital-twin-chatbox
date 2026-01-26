@@ -1,0 +1,10 @@
+.env 
+/lambda/pages
+.python-version
+/.venv
+_pycache_
+uv.lock
+lambda-deployment.zip
+lambda-package/
+memory/
+me.txt
