@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-openai
+openai      #Remove when usinf Bedrock
 python-dotenv
 python-multipart
 boto3

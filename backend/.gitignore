@@ -2,7 +2,7 @@
 /lambda/pages
 .python-version
 /.venv
-_pycache_
+__pycache__/
 lambda-deployment.zip
 lambda-package/
 memory/
